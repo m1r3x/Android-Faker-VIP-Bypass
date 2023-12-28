@@ -27,7 +27,7 @@
 2. Start the app, tap on 3 dots > User info > Refresh
 
 3. Enjoy the VIP features :D
-<img src="https://github.com/m1r3x/Android-Faker-VIP-Bypass/assets/67225649/2d6c9eb2-0795-4219-bc47-428a218604f5" alt="Image" width="310" height="350">
+  <img src="https://github.com/m1r3x/Android-Faker-VIP-Bypass/assets/67225649/2d6c9eb2-0795-4219-bc47-428a218604f5" alt="Image" width="270" height="300">
 
 
 
