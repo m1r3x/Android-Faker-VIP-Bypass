@@ -16,7 +16,7 @@
 	- python .\server.py 
 	- password: 1234
 
-3. Edit hosts file on the PC like this:
+3. Edit the hosts file on your PC like this:  
 \<your local ip\>	android1500.com
 
 4. Enable the proxy app on all interfaces. On Burpsuite, after enabling all interfaces, go to Options > Miscellaneous, and enable the HTTP/1.0 fields
