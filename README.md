@@ -22,8 +22,8 @@
 4. Enable the proxy app on all interfaces. On Burpsuite, after enabling all interfaces, go to Options > Miscellaneous, and enable the HTTP/1.0 fields
 
 ### On android:
-1. Connect the phone to the PC proxy (using tools such as ProxyDroid)
-
-2. Start the app, tap on 3 dots > User info > Refresh
-
-3. Enjoy the VIP features :D
+1. Register a user on the android faker app
+2. Login with that user
+3. Connect the phone to the PC proxy (using tools such as ProxyDroid)
+4. Retart the app, tap on 3 dots > User info > Refresh
+5. Enjoy the VIP features :D
